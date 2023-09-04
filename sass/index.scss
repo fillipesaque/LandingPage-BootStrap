@@ -50,6 +50,15 @@ label{
     margin-top: 20px;
 }
 
+.p-rodape{
+    color: darkgrey;
+}
+.rodape{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 @media screen and (max-width:375px) {
     .container-form{
         max-width: 300px;
